@@ -1,0 +1,8 @@
+{
+  "short_name": "martplast",
+  "name": "Developed By Hexa Solutions",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
